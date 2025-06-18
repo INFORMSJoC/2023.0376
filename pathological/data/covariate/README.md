@@ -1,0 +1,3 @@
+# Introduction
+
+The digit dataset used in this project is sourced from the [Fedbn](https://github.com/med-air/FedBN?tab=readme-ov-file) repo. The preprocessed data can be downloaded via [the shared link](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155149226_link_cuhk_edu_hk/EaBgx5UmvatMi0KdvfdLWsABC49vcjZ2n9oZkjwl8jPMyA?e=TDxqN5). Please download the dataset and extract it into the current folder.
