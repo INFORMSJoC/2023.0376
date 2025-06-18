@@ -53,4 +53,4 @@ Visualization scripts used to reproduce the figures in the paper are stored in t
 
 # Acknowledge
 
-This implementation builds upon the repository [pfl](https://github.com/facebookresearch/FL_partial_personalization).
+This implementation builds upon the repository [FedEM](https://github.com/omarfoq/FedEM).

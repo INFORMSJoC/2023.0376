@@ -80,4 +80,4 @@ Below is the BibTex for citing this snapshot of the repository.
 
 ## License Clarification
 
-This repository is released under the MIT License. The code in the `pathological/` subdirectory is based on [pfl](https://github.com/facebookresearch/FL_partial_personalization) released under the Apache License 2.0, and that license is retained within the folder.
+This repository is released under the MIT License. The code in the `pathological/` subdirectory is based on [FedEM](https://github.com/omarfoq/FedEM) released under the Apache License 2.0, and that license is retained within the folder.
